@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{CEB5D5AA-350B-472B-CE85-ADBA594A0325}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Projectile.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RubyController.cs" Line="17" Column="5" />
+      <File FileName="Assets/Scripts/HealthCollectible.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/DamageZone.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="15" Column="23" />
+      <File FileName="Assets/Scripts/Projectile.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ruby's RPG" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Projectile.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="db681d06-772b-4330-87ca-08dbeaee870d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
